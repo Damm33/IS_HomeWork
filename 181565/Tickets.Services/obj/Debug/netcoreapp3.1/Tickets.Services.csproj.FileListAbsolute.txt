@@ -1,0 +1,16 @@
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\EmailSetiings.cs
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Services.deps.json
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Services.dll
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Services.pdb
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Domain.dll
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Repository.dll
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Domain.pdb
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\bin\Debug\netcoreapp3.1\Tickets.Repository.pdb
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.csproj.AssemblyReference.cache
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.AssemblyInfoInputs.cache
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.AssemblyInfo.cs
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.csproj.CopyComplete
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.dll
+C:\Users\Dame\Documents\Dame\Fakultet\181565\Tickets.Services\obj\Debug\netcoreapp3.1\Tickets.Services.pdb
